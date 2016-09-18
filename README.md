@@ -14,7 +14,7 @@ for an example.
 
 ### Usage
 
-    go get github.com/jteeuwen/keyboard/termbox
+    go get github.com/julienroland/keyboard-termbox
 
 
 ### License
