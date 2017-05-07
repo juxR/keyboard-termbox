@@ -4,7 +4,7 @@
 package termbox
 
 import (
-	"github.com/jteeuwen/keyboard"
+	"github.com/pwaller/keyboard"
 	term "github.com/nsf/termbox-go"
 )
 

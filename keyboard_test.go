@@ -5,7 +5,7 @@ package termbox
 
 import (
 	"fmt"
-	"github.com/jteeuwen/keyboard"
+	"github.com/pwaller/keyboard"
 	term "github.com/nsf/termbox-go"
 	"testing"
 )
